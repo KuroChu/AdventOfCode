@@ -13,3 +13,13 @@
  **[Answer](https://github.com/KuroChu/AdventOfCode/blob/master/Day1/Part1.py)**
 
 ## Day2
+
+### Part One
+ > What would your total score be if everything goes exactly according to your strategy guide?
+
+ **[Answer](https://github.com/KuroChu/AdventOfCode/blob/master/Day2/Part1.cc)**
+
+### Part Two
+ > Following the Elf's instructions for the second column, what would your total score be if everything goes exactly according to your strategy guide?
+
+ **[Answer](https://github.com/KuroChu/AdventOfCode/blob/master/Day2/Part2.cc)**
