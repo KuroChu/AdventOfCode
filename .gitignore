@@ -2,3 +2,4 @@ Resources/
 node_modules/
 *.env
 config.json
+.vs
